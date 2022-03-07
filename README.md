@@ -7,6 +7,8 @@ https://www.youtube.com/watch?v=iquC3QyNJUg
 
 ## Smart Mirror mit dem Raspberry Pi - Teil 2 (Software)
 
+https://www.youtube.com/watch?v=dIHr96KqfDI
+
 ### Bildschirm drehen
 Wenn ihr den Spiegel bzw. den Bildschirm lieber in Hochformat verwenden möchtet, könnt diesen mit folgeden B drehen.
 Konfigurationsdatei öffnen:
